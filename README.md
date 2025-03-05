@@ -1,4 +1,4 @@
-# aws-china-region-migration-prompt
+# AWS China Region Migration Prompt
 
 ## 1. Purpose and Functionality
 
